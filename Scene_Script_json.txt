@@ -1,0 +1,107 @@
+[
+  {
+    "scene_id": "1_The_Panic",
+    "duration_sec": 8,
+    "characters": ["Hulk", "Superman"],
+    "action": "Hulk (IT Veteran) storms into the room, looking highly panicked and defeated. Superman is present, standing confidently.",
+    "dialogue": {
+      "Hulk": "Macha… 20 varusham IT! Ippo... ellam AI-nu solraangale! Enna pannalam?!",
+      "phonetic": "Macha… iruvadhu varusham IT! Ippo... ellām AI-nu sollrāṅgale! Eṉnā paṇṇalām?!"
+    },
+    "visuals": "Start in media res. Extreme close-up on Hulk's panicked face. Use shaky cam for his entry."
+  },
+  {
+    "scene_id": "2_The_Ego",
+    "duration_sec": 7,
+    "characters": ["Superman"],
+    "action": "Superman interrupts Hulk's anxiety with an arrogant, dismissive attitude.",
+    "dialogue": {
+      "Superman": "Machi, AI-ya? *Naa first-eh solliyaachu!* Namakku inga seat irukaadhu! Kelambu!",
+      "phonetic": "Machi, AI-yā? *Nā first-ē solliyāchu!* Namakku iṅga seat irukkāthu! Keḷambu!"
+    },
+    "visuals": "Superman makes a dramatic, dismissive hand gesture (e.g., pointing off-screen as if telling Hulk to leave the planet). Tight shot on his confident posture."
+  },
+  {
+    "scene_id": "3_Regional_Vibe_Part1",
+    "duration_sec": 7,
+    "characters": ["Spiderman"],
+    "action": "Spiderman enters, calm, holding a tumbler of filter coffee. He is sipping it serenely.",
+    "dialogue": {
+      "Spiderman": "Brooo… AI pathi bayapadatheenga. Namma level vera. (Sip) AI-kooda namma kitta *tuition* kekkudhu.",
+      "phonetic": "Brooo… AI pathi baya paḍatheenga. Namma level vēra. (Sip) AI-kūḍa namma kitta *tuition* kēkkudhu."
+    },
+    "visuals": "VISUAL GAG: Slow-motion shot of the filter coffee being poured/sipped, contrasting with the panic. Spiderman's demeanor is Zen-like."
+  },
+  {
+    "scene_id": "3_Regional_Vibe_Part2",
+    "duration_sec": 8,
+    "characters": ["Batman"],
+    "action": "Batman bursts in with intense, high energy.",
+    "dialogue": {
+      "Batman": "AI-ya? Adhu ellam namma ooru pasangalku *parotta saalna sapdura maari!*",
+      "phonetic": "AI-yā? Adhu ellām namma ūru pasaṅgaḷukku *parotta sālnā saṟpdura māri!*"
+    },
+    "visuals": "Low-angle shot for his entry. Add a classic, dramatic 'Aruval-vibe' sound effect (like a hero's theme) for maximum impact, emphasizing his overconfidence."
+  },
+  {
+    "scene_id": "4_CHAOS_MONTAGE",
+    "duration_sec": 20,
+    "characters": ["Hulk", "Superman", "Spiderman", "Batman"],
+    "action": "Rapid-fire sequence of short shots showing their AI model failures.",
+    "dialogue": {
+      "Narrator": "(No Dialogue - Focus on Visuals and Sound Effects)"
+    },
+    "visuals": [
+      {
+        "shot": "Hulk Fail",
+        "detail": "Zoom on his monitor. Model output reads in huge red text: *'I QUIT.'*"
+      },
+      {
+        "shot": "Superman Fail",
+        "detail": "Superman stands ready for success. A tiny, pathetic, smoking GPU is sitting on his desk (visual disappointment)."
+      },
+      {
+        "shot": "Spiderman Fail",
+        "detail": "Model output screen shows gibberish, but the last line is clear Tamil: *'Yenaku oru filter coffee venum.'*",
+        "phonetic": "'Yeṉakku oru filter coffee vēṇum.'"
+      },
+      {
+        "shot": "Batman Fail",
+        "detail": "Close up on Batman's confident face. Model output box shows only one giant word: *'THALAPATHY DA!'*"
+      }
+    ]
+  },
+  {
+    "scene_id": "5_The_Rally",
+    "duration_sec": 10,
+    "characters": ["Superman"],
+    "action": "All four are depressed. Superman suddenly stands up, regaining his conviction and rallying the team.",
+    "dialogue": {
+      "Superman": "Solution simple da. Naan, Nee, Spidey, Batman… *Team-ah sernthu padichaa, AI-kooda surrender aagidum!*",
+      "phonetic": "Solution simple da. Nāṉ, nī, Spidey, Batman… *Team-ā serndhu paḍichā, AI-kūḍa surrender āgiduṁ!*"
+    },
+    "visuals": "Dramatic switch from a low-energy group shot to a tight, determined shot on Superman's face. The score should build dramatically here."
+  },
+  {
+    "scene_id": "6_The_Final_Punch_Setup",
+    "duration_sec": 7,
+    "characters": ["Narrator"],
+    "action": "All four join hands and strike a powerful, hero-style pose.",
+    "dialogue": {
+      "Narrator (Epic Voice)": "Naanga Naalu Per... ENGALUKKU BAYAMILLA! Yenna enga kooda AI iruku!",
+      "phonetic": "Nānga nālu pēr... eṅgaḷukku bayamilla! Yēṉṉa eṅga kūṭa AI irukku!"
+    },
+    "visuals": "Use slow-motion for the handshake and freeze-frame on the final hero pose."
+  },
+  {
+    "scene_id": "7_The_Final_Punch_Delivery",
+    "duration_sec": 3,
+    "characters": ["Batman"],
+    "action": "Freeze Frame holds.",
+    "dialogue": {
+      "Batman (Voiceover/Muffled)": "Next week RAG and Lang Chain da!",
+      "phonetic": "Next week RAG-um Lang Chain-um da!"
+    },
+    "visuals": "VISUAL GAG: Upon the voiceover, the four actors simultaneously collapse inside the *still-frozen frame*. Sound of them hitting the floor is muffled. FADE TO BLACK."
+  }
+]
