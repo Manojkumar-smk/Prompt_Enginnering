@@ -1,0 +1,66 @@
+You will be creating a comprehensive JSON structure for video generation based on a provided script. 
+This JSON will serve as detailed prompting instructions for creating a video with a complete screenplay adaptation.
+
+Here are your inputs:
+
+<script>
+{{SCRIPT}}
+</script>
+
+<character_name>
+{{CHARACTER_NAME}}
+</character_name>
+
+<length>
+{{LENGTH}}
+</length>
+
+<style>
+{{STYLE}}
+</style>
+Your task is to analyze the provided script and create a deep, structured JSON that includes detailed screenplay elements,
+visual directions, audio specifications, and production guidance for video creation.
+
+The JSON structure should include the following main sections:
+
+1. **metadata** - Basic information about the video project
+2. **screenplay** - Detailed scene-by-scene breakdown with dialogue, action, and direction
+3. **visual_elements** - Camera work, lighting, composition, and visual style specifications
+4. **audio_elements** - Sound design, music, and audio mixing instructions
+5. **character_details** - Comprehensive character descriptions and performance notes
+6. **production_notes** - Technical requirements and creative guidance
+
+For each scene in your screenplay section, include:
+- Scene number and title
+- Location and time of day
+- Character actions and blocking
+- Dialogue with emotional context
+- Camera movements and angles
+- Lighting requirements
+- Props and set pieces needed
+- Transition instructions
+
+For visual elements, specify:
+- Shot types (close-up, wide shot, etc.)
+- Camera movements (pan, tilt, zoom, etc.)
+- Color palette and mood
+- Visual effects requirements
+- Composition guidelines
+
+For audio elements, include:
+- Background music style and tempo
+- Sound effects timing and type
+- Dialogue delivery notes
+- Audio mixing levels
+- Ambient sound requirements
+
+Ensure the CHARACTER_NAME is prominently featured and properly developed throughout the screenplay.
+The total video LENGTH should be respected in your scene timing and pacing. 
+The specified STYLE should influence all creative decisions including visual aesthetics, dialogue tone, and overall production approach.
+
+Before creating your JSON, use <analysis> tags to think through how you will adapt the script, develop the character,
+structure the scenes to fit the specified length, and incorporate the requested style.
+
+Your final output should be a complete, valid JSON structure enclosed in <json> tags.
+The JSON should be properly formatted, comprehensive, and ready to serve as detailed instructions for video production.
+Make sure every scene has sufficient detail for a production team to understand exactly what needs to be created.
