@@ -1,0 +1,898 @@
+<analysis>
+Let me analyze the inputs:
+Script Analysis:
+
+Scene ID: "1_The_Panic"
+Duration: 8 seconds
+Characters: Hulk (IT Veteran, panicked/defeated) and Superman (confident)
+Action: Hulk storms in looking panicked, Superman stands confidently
+Dialogue: Hulk speaks in Tamil about his 20 years in IT and concerns about AI replacing him
+Visual style: Media res start, extreme close-up on panic, shaky cam
+
+Character Development:
+
+Hulk: IT veteran (20 years experience), currently experiencing career anxiety about AI disruption, emotional, defeated, Tamil-speaking
+Superman: Confident presence, likely a mentor/contrast figure to Hulk's panic
+
+Length Consideration:
+
+8 seconds is very short, so this needs to be highly focused
+Approximate breakdown: 2-3 seconds entry, 5-6 seconds dialogue delivery
+Fast-paced, intense energy needed
+
+Style - "Panice" (Panic):
+This style should influence:
+
+Visual: Shaky cam, tight framing, high contrast, desaturated colors, rapid movements
+Audio: Tense music, heavy breathing, urgent sound design
+Performance: Heightened emotions, rapid delivery, physical agitation
+Editing: Quick cuts, disorienting angles, tension-building
+
+Adaptation Strategy:
+
+Break the 8 seconds into micro-moments
+Emphasize panic through all technical elements
+Create contrast between Hulk's chaos and Superman's calm
+Use bilingual context (Tamil dialogue with cultural authenticity)
+Build production-ready specifications for each element
+</analysis>
+
+
+<json>
+{
+  "metadata": {
+    "project_title": "The Panic - AI Crisis",
+    "scene_id": "1_The_Panic",
+    "version": "1.0",
+    "total_duration_seconds": 8,
+    "format": "16:9",
+    "resolution": "1920x1080",
+    "frame_rate": 24,
+    "style": "Panic",
+    "genre": "Dramatic Comedy",
+    "language": "Tamil/English",
+    "target_audience": "Tech professionals, millennials",
+    "production_type": "Short-form content"
+  },
+"screenplay": {
+"scene_001": {
+"scene_number": "1",
+"scene_title": "THE PANIC - HULK'S CRISIS",
+"location": "Modern office space / tech workplace",
+"time_of_day": "Day",
+"duration_seconds": 8,
+"story_beat": "Inciting incident - Hulk's existential career crisis",
+Copy  "beats": [
+    {
+      "beat_id": "1A",
+      "timestamp": "00:00-00:02",
+      "duration_seconds": 2,
+      "action": "COLD OPEN - IN MEDIA RES. Door BURSTS open. HULK storms into frame, his massive form filling the doorway. His face shows raw panic - eyes wide, breathing heavy, posture defeated. The confident IT veteran is broken.",
+      "character_state": {
+        "Hulk": "Highly agitated, panicked, physically tense, defeated posture, rapid breathing",
+        "Superman": "Steady, grounded, observant, confident stance"
+      },
+      "blocking": "Hulk enters from screen right, aggressive movement toward center. Superman positioned screen left, static, rooted position suggesting stability.",
+      "emotional_intensity": 9,
+      "tension_level": "Maximum"
+    },
+    {
+      "beat_id": "1B",
+      "timestamp": "00:02-00:03",
+      "duration_seconds": 1,
+      "action": "EXTREME CLOSE-UP on Hulk's face. Beads of sweat visible. Eyes darting. The weight of 20 years crashing down visible in his expression. Superman remains in background, slightly out of focus, creating visual contrast.",
+      "character_state": {
+        "Hulk": "Peak anxiety moment, vulnerability exposed",
+        "Superman": "Calm observer, anchor point"
+      },
+      "blocking": "Hulk stops center frame. Superman's silhouette visible in background.",
+      "emotional_intensity": 10,
+      "tension_level": "Peak"
+    },
+    {
+      "beat_id": "1C",
+      "timestamp": "00:03-00:08",
+      "duration_seconds": 5,
+      "action": "Hulk's words explode out in rapid-fire Tamil. His hands gesture wildly, body language screaming desperation. Each word carries the weight of his career, his identity, his fear of obsolescence.",
+      "dialogue": {
+        "character": "Hulk",
+        "line": "Macha… 20 varusham IT! Ippo... ellam AI-nu solraangale! Enna pannalam?!",
+        "translation": "Dude... 20 years in IT! Now... everyone's saying AI will replace us! What should I do?!",
+        "delivery": "Rapid, breathless, desperate, voice cracking with emotion, emphasis on '20 varusham' and 'AI'",
+        "subtext": "My entire career, my identity, my expertise - all threatened. I'm terrified and lost.",
+        "emotional_notes": [
+          "Start strong with 'Macha' - seeking connection/help",
+          "Pride mixed with desperation on '20 varusham IT'",
+          "Pause before 'Ippo' - the turning point",
+          "Fear peaks on 'AI-nu solraangale'",
+          "Genuine helplessness on 'Enna pannalam?!'"
+        ],
+        "pacing": "Fast, urgent, building intensity",
+        "volume": "Loud, projecting panic"
+      },
+      "character_state": {
+        "Hulk": "Full emotional release, gesticulating wildly, seeking validation/help",
+        "Superman": "Attentive, slight reaction to Hulk's intensity, preparing response"
+      },
+      "blocking": "Hulk advances slightly toward Superman, invading space. Arms spread in questioning gesture on final line.",
+      "emotional_intensity": 10,
+      "tension_level": "Sustained high"
+    }
+  ],
+  
+  "scene_transition": {
+    "type": "Hard cut or smash cut",
+    "duration_seconds": 0,
+    "notes": "Scene ends on Hulk's desperate question, leaving tension unresolved"
+  },
+  
+  "props": [
+    "Office door (practical, can burst open)",
+    "Desk or workspace (Superman's position)",
+    "Minimal office decoration (keep focus on characters)",
+    "Possible: Coffee mug, laptop (world-building details)"
+  ],
+  
+  "set_dressing": "Modern tech office aesthetic - clean lines, minimal but professional, slight corporate coldness that contrasts with emotional heat"
+}
+},
+"visual_elements": {
+"overall_aesthetic": {
+"style": "Panic-driven cinema verité meets comic book drama",
+"mood": "Frenetic, claustrophobic, urgent, unsettling",
+"color_palette": {
+"primary_colors": ["Desaturated blues", "Cold grays", "Stark whites"],
+"accent_colors": ["Sickly fluorescent yellows", "Muted greens (Hulk's signature)", "Deep shadows"],
+"color_temperature": "Cool, harsh, anxiety-inducing",
+"saturation": "25-30% reduced from natural",
+"contrast": "High contrast, emphasizing stress"
+},
+"visual_references": "Uncut Gems (panic), Mr. Robot (tech anxiety), Requiem for a Dream (close-ups)"
+},
+Copy"shot_list": [
+  {
+    "shot_number": "001",
+    "timestamp": "00:00-00:01",
+    "duration_seconds": 1,
+    "shot_type": "Wide shot to medium shot (crash zoom)",
+    "camera_movement": "Rapid push-in as door opens, handheld shake",
+    "angle": "Slightly low angle on door, emphasizing Hulk's imposing entrance",
+    "lens": "35mm equivalent, transitioning to 50mm feel",
+    "focus": "Rack focus from door to Hulk's torso to face",
+    "composition": "Rule of thirds violated intentionally - off-balance framing",
+    "framing_notes": "Door frame creates natural frame within frame, immediately broken by Hulk's entry",
+    "movement_intensity": "High - aggressive, unstable"
+  },
+  {
+    "shot_number": "002",
+    "timestamp": "00:01-00:02",
+    "duration_seconds": 1,
+    "shot_type": "Medium close-up, shaky",
+    "camera_movement": "Handheld follow, slight circle around Hulk",
+    "angle": "Eye level, intimate but unstable",
+    "lens": "50mm equivalent",
+    "focus": "Sharp on Hulk, Superman soft in background",
+    "composition": "Hulk filling frame, Superman visible as anchor point",
+    "framing_notes": "Negative space behind Hulk filled with office mundanity - visual irony",
+    "movement_intensity": "Medium-high - documentary style"
+  },
+  {
+    "shot_number": "003",
+    "timestamp": "00:02-00:03",
+    "duration_seconds": 1,
+    "shot_type": "Extreme close-up",
+    "camera_movement": "Push in to maximum intimacy, slight shake",
+    "angle": "Direct eye level, breaking fourth wall proximity",
+    "lens": "85mm equivalent for compression",
+    "focus": "Razor-sharp on eyes, shallow depth of field on rest of face",
+    "composition": "Face fills entire frame, eyes in upper third creating upward tension",
+    "framing_notes": "Uncomfortable intimacy - audience feels the panic",
+    "movement_intensity": "Low movement, high psychological intensity",
+    "special_notes": "Sweat details visible, pores visible, raw vulnerability"
+  },
+  {
+    "shot_number": "004",
+    "timestamp": "00:03-00:05",
+    "duration_seconds": 2,
+    "shot_type": "Medium shot, shaky",
+    "camera_movement": "Handheld, reactive to Hulk's movements",
+    "angle": "Slightly low, empowering his panic",
+    "lens": "40mm equivalent",
+    "focus": "Hulk sharp, background slightly soft",
+    "composition": "Hulk center-left, Superman visible but secondary",
+    "framing_notes": "Frame shakes with dialogue intensity",
+    "movement_intensity": "High - camera 'reacts' to emotional outburst"
+  },
+  {
+    "shot_number": "005",
+    "timestamp": "00:05-00:06",
+    "duration_seconds": 1,
+    "shot_type": "Quick cut to Superman reaction shot",
+    "camera_movement": "Steady, contrasting with previous shots",
+    "angle": "Straight on, stable",
+    "lens": "50mm equivalent",
+    "focus": "Sharp throughout",
+    "composition": "Centered, balanced - visual contrast to chaos",
+    "framing_notes": "Momentary stability breaks the panic rhythm",
+    "movement_intensity": "None - creates breathing moment"
+  },
+  {
+    "shot_number": "006",
+    "timestamp": "00:06-00:08",
+    "duration_seconds": 2,
+    "shot_type": "Close-up on Hulk, back to panic",
+    "camera_movement": "Push in during final question",
+    "angle": "Eye level, slight Dutch angle (5-10 degrees)",
+    "lens": "50mm to 70mm zoom",
+    "focus": "Hulk's face, hands enter frame gesturing",
+    "composition": "Face and hands create triangle of desperation",
+    "framing_notes": "End on open question - hands spread, face vulnerable",
+    "movement_intensity": "Building to crescendo",
+    "special_notes": "Final frame holds briefly before cut - let question land"
+  }
+],
+
+"lighting_design": {
+  "overall_approach": "Harsh, institutional, anxiety-inducing",
+  "key_light": {
+    "type": "Hard overhead fluorescent practical",
+    "position": "Above, slightly front",
+    "intensity": "Medium-high, unflattering",
+    "color_temperature": "4500K - cold fluorescent",
+    "notes": "Creates shadows under eyes, emphasizes exhaustion"
+  },
+  "fill_light": {
+    "type": "Minimal bounce from walls/desk",
+    "position": "Environmental only",
+    "intensity": "Very low",
+    "color_temperature": "Matches key",
+    "notes": "Preserve shadows - keep it harsh"
+  },
+  "back_light": {
+    "type": "Window light or cool practical",
+    "position": "Behind Superman",
+    "intensity": "Medium, creating separation",
+    "color_temperature": "5000K - cooler than key",
+    "notes": "Superman gets slight halo effect - heroic contrast"
+  },
+  "practical_lights": [
+    "Overhead fluorescent panels (visible in wide shots)",
+    "Computer monitor glow (subtle blue on Superman)",
+    "Window light (natural, cool)"
+  ],
+  "lighting_notes": "No beauty lighting - embrace the harsh reality of office anxiety. Hulk should look washed out, stressed. Superman should appear naturally confident through positioning, not special lighting."
+},
+
+"visual_effects": {
+  "vfx_required": false,
+  "color_grading": {
+    "approach": "Desaturated, pushed toward cool anxiety",
+    "shadows": "Crushed slightly, increase tension",
+    "highlights": "Controlled, prevent blowout",
+    "mid_tones": "Shifted cool, reduced saturation",
+    "skin_tones": "Slightly sickly for Hulk, natural for Superman",
+    "reference_luts": "Panic-driven thriller aesthetic"
+  },
+  "post_production_effects": [
+    {
+      "effect": "Intentional camera shake enhancement",
+      "timing": "Beats 1A, 1B, 1C (Hulk's entrance and dialogue)",
+      "intensity": "Medium - noticeable but not nauseating"
+    },
+    {
+      "effect": "Subtle chromatic aberration",
+      "timing": "Peak panic moments (00:02-00:03)",
+      "intensity": "Low - adds to disorientation"
+    },
+    {
+      "effect": "Grain overlay",
+      "timing": "Entire scene",
+      "intensity": "Low-medium - adds texture and anxiety"
+    }
+  ]
+},
+
+"composition_guidelines": {
+  "framing_philosophy": "Controlled chaos - break rules intentionally",
+  "headroom": "Minimal to none on Hulk (claustrophobic), normal on Superman (grounded)",
+  "look_room": "Violated for Hulk (no escape), proper for Superman (space to think)",
+  "depth_staging": "Hulk in foreground (dominant), Superman mid-ground (stable reference)",
+  "visual_hierarchy": "Hulk's emotion > Superman's presence > environment"
+}
+},
+"audio_elements": {
+"dialogue": {
+"recording_specs": {
+"microphone_type": "Lavalier for Hulk (intimate panic), boom for Superman (natural confidence)",
+"sample_rate": "48kHz",
+"bit_depth": "24-bit",
+"format": "WAV"
+},
+"hulk_dialogue": {
+"line": "Macha… 20 varusham IT! Ippo... ellam AI-nu solraangale! Enna pannalam?!",
+"delivery_notes": {
+"tempo": "Fast, accelerating through the line",
+"pitch": "Starting medium, rising with panic",
+"rhythm": "Staccato on 'Macha', sustained emphasis on '20 varusham IT', rushed through middle, desperate end",
+"breath": "Heavy breathing audible before line, gasping quality mid-line",
+"articulation": "Clear Tamil pronunciation, slight breathlessness affecting clarity on 'AI-nu solraangale'"
+},
+"emotional_markers": {
+"Macha": "Seeking connection, friendship call, desperate",
+"20_varusham_IT": "Pride mixed with desperation, his identity",
+"Ippo": "The turning point, realization",
+"ellam_AI-nu_solraangale": "Fear, threat, uncertainty",
+"Enna_pannalam": "Helpless question, genuine plea for guidance"
+},
+"audio_processing": {
+"eq": "Slight boost in mid-range (anxiety), reduce extreme lows (keep tension)",
+"compression": "Heavy compression to maintain urgency at all volumes",
+"reverb": "Minimal - keep it dry and intimate",
+"effects": "Slight distortion on peak panic moments (natural voice strain)"
+},
+"volume_envelope": "Start at 85%, build to 100% by final question"
+},
+"ambient_dialogue": {
+"room_tone": "Cold office ambience, slight computer hum, AC white noise",
+"breathing": "Hulk's heavy breathing prominent in mix (fear indicator)",
+"movement_sounds": "Door burst (loud, shocking), footsteps (heavy, urgent), clothing rustle (agitated movement)"
+}
+},
+Copy"music": {
+  "track_structure": {
+    "style": "Tension-building electronic/orchestral hybrid",
+    "tempo": "120-140 BPM, accelerating feel",
+    "key": "Minor key (D minor or E minor)",
+    "instrumentation": [
+      "Low pulsing synth bass (heartbeat metaphor)",
+      "Staccato strings (building anxiety)",
+      "Glitchy electronic elements (AI/tech metaphor)",
+      "Sparse piano hits (emotional punctuation)"
+    ],
+    "dynamic_arc": "Enters immediately at medium intensity, builds continuously to cliffhanger end"
+  },
+  "timing_cues": [
+    {
+      "timestamp": "00:00",
+      "cue": "Music starts with door burst - low pulse",
+      "intensity": 6,
+      "description": "Immediate tension establishment"
+    },
+    {
+      "timestamp": "00:02",
+      "cue": "Intensity increase for extreme close-up",
+      "intensity": 8,
+      "description": "Add strings, increase pulse rate"
+    },
+    {
+      "timestamp": "00:03",
+      "cue": "Dialogue begins - music ducks slightly but maintains tension",
+      "intensity": 7,
+      "description": "Support dialogue without covering it"
+    },
+    {
+      "timestamp": "00:06",
+      "cue": "Build to final question",
+      "intensity": 9,
+      "description": "All elements active, building to crescendo"
+    },
+    {
+      "timestamp": "00:08",
+      "cue": "End on unresolved chord",
+      "intensity": 10,
+      "description": "Leave tension hanging, no resolution"
+    }
+  ],
+  "reference_tracks": "Trent Reznor/Atticus Ross (Social Network), Hans Zimmer (Dunkirk tension), Mica Levi (Under the Skin unease)"
+},
+
+"sound_design": {
+  "sound_effects": [
+    {
+      "sfx_id": "SFX_001",
+      "description": "Door burst open",
+      "timestamp": "00:00",
+      "type": "Foley - practical",
+      "intensity": "High - shocking entry point",
+      "processing": "Slight low-end boost, sharp transient",
+      "volume": "95% - one of loudest elements"
+    },
+    {
+      "sfx_id": "SFX_002",
+      "description": "Heavy footsteps (Hulk's entrance)",
+      "timestamp": "00:00-00:02",
+      "type": "Foley - custom recorded",
+      "intensity": "Medium-high - urgency",
+      "processing": "Natural reverb matching space",
+      "volume": "70%"
+    },
+    {
+      "sfx_id": "SFX_003",
+      "description": "Hulk's heavy breathing",
+      "timestamp": "00:00-00:08 (continuous)",
+      "type": "Foley - performance",
+      "intensity": "Building from medium to high",
+      "processing": "Close mic sound, slight compression",
+      "volume": "50-70% (increases throughout)"
+    },
+    {
+      "sfx_id": "SFX_004",
+      "description": "Clothing rustle (agitated movement)",
+      "timestamp": "00:03-00:08",
+      "type": "Foley - organic",
+      "intensity": "Low-medium - subliminal agitation",
+      "processing": "Natural, textured",
+      "volume": "30-40%"
+    },
+    {
+      "sfx_id": "SFX_005",
+      "description": "Hand gestures cutting air",
+      "timestamp": "00:06-00:08",
+      "type": "Foley - subtle",
+      "intensity": "Low - adds physicality",
+      "processing": "Natural",
+      "volume": "25%"
+    },
+    {
+      "sfx_id": "SFX_006",
+      "description": "Office ambience (computers, AC, fluorescent hum)",
+      "timestamp": "00:00-00:08 (continuous bed)",
+      "type": "Ambient - location recording",
+      "intensity": "Very low - environmental texture",
+      "processing": "EQ to sit in background",
+      "volume": "15-20%"
+    },
+    {
+      "sfx_id": "SFX_007",
+      "description": "Heartbeat pulse (subliminal)",
+      "timestamp": "00:02-00:08",
+      "type": "Sound design - synthetic",
+      "intensity": "Very low - psychological element",
+      "processing": "Heavy low-pass filter, sync with music pulse",
+      "volume": "10-15% (more felt than heard)"
+    }
+  ],
+  "design_philosophy": "Every sound reinforces panic - from sharp transients to continuous tension. Use silence sparingly - fill space with anxiety."
+},
+
+"audio_mixing": {
+  "mix_priorities": [
+    "1. Dialogue clarity (Hulk's line must be understood)",
+    "2. Emotional sound design (breathing, movement)",
+    "3. Music (supporting tension)",
+    "4. Ambient/environment (texture only)"
+  ],
+  "frequency_allocation": {
+    "sub_bass": "Music pulse, heartbeat (20-60Hz)",
+    "bass": "Door slam, footsteps, music bass (60-250Hz)",
+    "low_mids": "Male voice fundamental, body (250-500Hz)",
+    "mids": "Dialogue clarity, presence (500Hz-2kHz)",
+    "high_mids": "Dialogue intelligibility, breathing (2kHz-6kHz)",
+    "highs": "Air, tension, details (6kHz-20kHz)"
+  },
+  "dynamic_range": {
+    "target_lufs": "-16 LUFS (streaming standard)",
+    "peak_ceiling": "-1.0 dBTP (prevent clipping)",
+    "dynamic_approach": "Moderate compression - keep some dynamics for impact"
+  },
+  "spatial_design": {
+    "dialogue": "Center channel, intimate",
+    "music": "Wide stereo, enveloping",
+    "sfx": "Positioned realistically (door from right, etc.)",
+    "ambience": "Wide, immersive"
+  },
+  "mix_notes": "Keep it tight and urgent. No space for the audience to relax. Every element serves the panic."
+}
+},
+"character_details": {
+"hulk": {
+"character_name": "Hulk",
+"role": "Protagonist - Comic Relief with Depth",
+"archetype": "The Everyman in Crisis",
+Copy  "backstory": {
+    "profession": "IT Professional (20 years experience)",
+    "expertise": "Legacy systems, traditional programming, established tech stack",
+    "current_situation": "Facing industry disruption from AI/automation",
+    "psychological_state": "Identity crisis, career anxiety, fear of obsolescence",
+    "cultural_context": "Tamil-speaking, likely Chennai or Bangalore tech scene, strong 'macha' bro culture"
+  },
+  
+  "physical_description": {
+    "build": "Large, imposing (Hulk-like presence)",
+    "age": "40-45 years old",
+    "appearance": "Disheveled, stressed, showing wear of career anxiety",
+    "clothing": "Business casual IT attire - slightly wrinkled shirt, loosened collar, ID badge visible",
+    "distinctive_features": "Stress lines visible, tired eyes, heavy presence"
+  },
+  
+  "personality_traits": [
+    "Experienced but currently vulnerable",
+    "Emotional and expressive (Tamil culture's emotional openness)",
+    "Seeks connection and validation ('Macha' - friend/bro)",
+    "Pride in career mixed with current fear",
+    "Genuine, not performative - real crisis"
+  ],
+  
+  "performance_notes": {
+    "physicality": {
+      "entry": "Explosive, uncontrolled burst of energy - door practically flies open",
+      "posture": "Initially aggressive entry, then slightly collapsed/defeated when speaking",
+      "gestures": "Wild, expansive, seeking - hands cutting air, reaching out, spreading in helpless question",
+      "movement_quality": "Agitated, unable to be still, weight shifting",
+      "facial_expressions": [
+        "Eyes wide with panic (whites visible)",
+        "Brow furrowed deeply",
+        "Jaw slightly slack with shock",
+        "Rapid blinking",
+        "Mouth tense when not speaking",
+        "Genuine fear in expression"
+      ]
+    },
+    
+    "vocal_delivery": {
+      "accent": "Tamil English mix - authentic Tamil pronunciation",
+      "pace": "Fast, rushing, struggling to get words out",
+      "volume": "Loud, projecting panic throughout space",
+      "pitch": "Rising with anxiety, especially on questions",
+      "breath": "Labored, visible struggle for air, gasping quality",
+      "emotional_color": "Raw desperation, no filter, completely exposed"
+    },
+    
+    "emotional_journey": {
+      "beat_1A": "Explosive panic (9/10 intensity)",
+      "beat_1B": "Peak vulnerability (10/10 intensity)",
+      "beat_1C": "Desperate plea, slight hope Superman has answers (9/10 intensity)"
+    },
+    
+    "character_motivation": "Seeking reassurance, guidance, validation that 20 years of work wasn't worthless",
+    
+    "relationship_to_superman": "Looks up to him, seeks his wisdom/confidence, possibly younger colleague or friend",
+    
+    "subtext": "This isn't just about AI - it's about identity, worth, purpose, relevance in a changing world"
+  },
+  
+  "acting_references": "Oscar Isaac in 'Inside Llewyn Davis' (defeated artist), Adam Sandler in 'Uncut Gems' (sustained anxiety), Irrfan Khan's emotional vulnerability"
+},
+
+"superman": {
+  "character_name": "Superman",
+  "role": "Supporting - The Confident Anchor",
+  "archetype": "The Mentor/Steady Presence",
+  
+  "backstory": {
+    "profession": "Likely IT professional or consultant, possibly younger or differently positioned",
+    "expertise": "Adapted to new tech, comfortable with AI, forward-thinking",
+    "current_situation": "Stable, confident, contrasting with Hulk's crisis",
+    "psychological_state": "Grounded, self-assured, ready to provide guidance"
+  },
+  
+  "physical_description": {
+    "build": "Strong, upright posture (Superman-like confidence)",
+    "age": "30-40 years old",
+    "appearance": "Well-put-together, calm, professional",
+    "clothing": "Neat business attire or smart casual, pressed and proper",
+    "distinctive_features": "Calm eyes, assured stance, slight knowing smile"
+  },
+  
+  "personality_traits": [
+    "Confident without arrogance",
+    "Patient and steady",
+    "Forward-thinking, adapted to change",
+    "Supportive friend/colleague",
+    "Natural leader/mentor energy"
+  ],
+  
+  "performance_notes": {
+    "physicality": {
+      "stance": "Rooted, stable - weight evenly distributed, almost planted",
+      "posture": "Upright, open chest, grounded",
+      "gestures": "Minimal, controlled - every movement intentional",
+      "movement_quality": "Still, calm, unbothered by Hulk's chaos",
+      "facial_expressions": [
+        "Slight concern but not panic",
+        "Attentive listening",
+        "Hint of 'I have the answer' confidence",
+        "Steady eye contact",
+        "Small reactive expressions to Hulk's intensity"
+      ]
+    },
+    
+    "vocal_delivery": {
+      "note": "No dialogue in this scene - presence only",
+      "breathing": "Calm, controlled, visible contrast to Hulk",
+      "reactive_sounds": "Possible small acknowledgments ('mm', 'hmm') if needed"
+    },
+    
+    "emotional_journey": {
+      "beat_1A": "Alert but calm (5/10 intensity)",
+      "beat_1B": "Observing Hulk's pain, empathetic (6/10 intensity)",
+      "beat_1C": "Ready to respond, preparing wisdom (6/10 intensity)"
+    },
+    
+    "character_motivation": "To help his friend, to provide perspective and calm",
+    
+    "relationship_to_hulk": "Friend, colleague, possibly mentor - cares about Hulk genuinely",
+    
+    "subtext": "I've been through this transformation, I understand, and I can help you through it"
+  },
+  
+  "acting_references": "Chadwick Boseman's quiet strength in 'Black Panther', Oscar Isaac in 'Ex Machina' (calm tech confidence)"
+}
+},
+"production_notes": {
+"technical_requirements": {
+"camera_equipment": {
+"primary_camera": "Cinema camera capable of 24fps at 1080p minimum (preferably 4K for post flexibility)",
+"lens_package": "35mm, 50mm, 85mm primes OR 24-70mm zoom",
+"stabilization": "Handheld for panic scenes - intentionally unstable, small gimbal for Superman's stable shot",
+"recording_format": "ProRes 422 HQ or RAW for maximum color grading flexibility"
+},
+Copy  "audio_equipment": {
+    "primary_mic": "Shotgun boom mic (overhead, following action)",
+    "backup_mic": "Lavalier on Hulk (hidden under clothing)",
+    "recorder": "Multi-track field recorder, 48kHz/24bit minimum",
+    "monitoring": "Closed-back headphones for real-time monitoring"
+  },
+  
+  "lighting_equipment": {
+    "key_lights": "LED panel arrays (fluorescent simulation) OR practical fluorescent fixtures",
+    "fill": "Bounce boards, negative fill for shadow control",
+    "back_lights": "Small LED panels or natural window light",
+    "modifiers": "Minimal - keep it harsh",
+    "power": "Ensure adequate power for continuous LED draw"
+  },
+  
+  "location_requirements": {
+    "space_type": "Modern office or convincing office set",
+    "minimum_size": "12x12 feet for camera movement",
+    "ceiling_height": "8-10 feet for overhead lighting",
+    "features_needed": [
+      "Practical door (can be opened forcefully)",
+      "Desk or workstation",
+      "Window or window light simulation",
+      "Neutral walls (white, gray, or pale blue)"
+    ],
+    "sound_considerations": "Quiet location or sound treatment - need clean dialogue"
+  }
+},
+
+"scheduling": {
+  "estimated_shoot_duration": "2-3 hours for 8-second final output",
+  "setup_time": "1 hour (lighting, camera, sound check)",
+  "rehearsal_time": "30 minutes (blocking, performance, timing)",
+  "shooting_time": "60-90 minutes (multiple takes, coverage)",
+  "breakdown_time": "30 minutes",
+  
+  "shot_priorities": [
+    "1. Master coverage (safety)",
+    "2. Hulk's extreme close-up (hero shot)",
+    "3. Entry sequence (establishing panic)",
+    "4. Superman's reaction (coverage)",
+    "5. Additional angles (insurance)"
+  ]
+},
+
+"crew_requirements": {
+  "essential": [
+    "Director",
+    "Director of Photography/Camera Operator",
+    "Sound Recordist",
+    "Gaffer/Lighting Technician"
+  ],
+  "recommended": [
+    "1st AC/Focus Puller",
+    "Grip",
+    "Script Supervisor/Continuity",
+    "Production Assistant"
+  ],
+  "post_production": [
+    "Editor",
+    "Colorist",
+    "Sound Designer/Mixer",
+    "Music Composer/Supervisor"
+  ]
+},
+
+"creative_guidance": {
+  "director_notes": {
+    "overall_approach": "This is about capturing real panic, not performing panic. Push the actor playing Hulk to find genuine vulnerability. The 20 years of IT experience is his identity - that's being threatened. Let him find that truth.",
+    
+    "scene_objectives": [
+      "Establish Hulk's crisis immediately and viscerally",
+      "Create uncomfortable intimacy with his fear",
+      "Contrast chaos (Hulk) with calm (Superman)",
+      "Leave audience in tension - no resolution yet",
+      "Ground the comedy in real emotional stakes"
+    ],
+    
+    "performance_direction": {
+      "for_hulk": "Don't play comedy - play the truth of career anxiety. The humor comes from the extreme reality, not from mugging. Find the real fear of being replaced, of 20 years meaning nothing. The Tamil dialogue should flow naturally - if you're Tamil, tap into that cultural expressiveness. The 'macha' isn't just slang - it's reaching for human connection in crisis.",
+      
+      "for_superman": "You are the eye of the hurricane. Your stillness makes Hulk's chaos more intense. You've seen this before, you understand it, and you have the answer - but not yet. Let us see quiet confidence, not smugness. You care about your friend."
+    },
+    
+    "camera_direction": "The camera is a participant in Hulk's panic. It should feel reactive, almost documentary - we stumbled into this moment. But don't make it so shaky it's unwatchable. Find the balance between cinema verité and controlled composition. Superman's shots should feel noticeably more stable - that's a storytelling choice.",
+    
+    "pacing_notes": "8 seconds is brutally short. Every frame must count. The entry should be shocking - bang, we're in it. The close-up should be uncomfortable. The dialogue should rush but remain intelligible. End on the question mark - literal and emotional. Leave them wanting the answer."
+  },
+  
+  "style_references": {
+    "films": [
+      "Uncut Gems (sustained anxiety)",
+      "Whiplash (intensity, close-ups)",
+      "The Social Network (rapid-fire dialogue)",
+      "Mr. Robot (tech anxiety aesthetic)"
+    ],
+    "tv_shows": [
+      "Succession (handheld panic)",
+      "Severance (office uncanniness)",
+      "The Bear (kitchen chaos energy)"
+    ],
+    "youtube_creators": [
+      "High-energy Indian tech content creators (cultural authenticity)",
+      "Dramatic short-form content (TikTok/Reels pacing)"
+    ]
+  },
+  
+  "common_pitfalls_to_avoid": [
+    "Making it too comedic - ground it in reality first",
+    "Camera shake so extreme it's nauseating",
+    "Dialogue too fast to understand (especially Tamil for non-speakers)",
+    "Superman too stoic - needs subtle reaction",
+    "Lighting too beautiful - needs to be harsh/real",
+    "Music overpowering dialogue",
+    "Not committing to the panic intensity"
+  ],
+  
+  "success_metrics": [
+    "Audience feels genuinely uncomfortable in the best way",
+    "Hulk's fear feels real and relatable (especially to tech workers)",
+    "Contrast between characters is clear",
+    "Dialogue is understood (both words and emotion)",
+    "Scene ends leaving audience wanting resolution",
+    "Rewatchability - details reveal themselves on repeat views"
+  ]
+},
+
+"post_production_workflow": {
+  "editing": {
+    "software_recommendation": "Adobe Premiere Pro or DaVinci Resolve",
+    "editing_approach": "Aggressive, tight cuts. Don't let shots linger. The 8-second constraint is real - be ruthless. Use J-cuts and L-cuts to maintain energy across cuts.",
+    "assembly_priorities": [
+      "First assembly: get the timing right, hit 8 seconds exactly",
+      "Second pass: refine performance choices from takes",
+      "Third pass: polish cuts for maximum impact",
+      "Fourth pass: lock picture for sound and color"
+    ],
+    "transition_style": "Hard cuts primarily, possible smash cut at end",
+    "timing_precision": "Frame-accurate timing critical for dialogue sync and music hits"
+  },
+  
+  "color_grading": {
+    "software_recommendation": "DaVinci Resolve (industry standard)",
+    "grading_workflow": [
+      "1. Balance and correct (technical)",
+      "2. Apply panic aesthetic (creative look)",
+      "3. Shot match for continuity",
+      "4. Secondary corrections (skin, eyes, etc.)",
+      "5. Final polish and delivery"
+    ],
+    "look_development": "Create custom LUT or use panic-driven references. Desaturate 25-30%, push cool, crush shadows slightly, protect highlights. Hulk should look stressed in color, Superman more natural.",
+    "delivery_format": "Rec.709 for web, HDR version if needed"
+  },
+  
+  "sound_post": {
+    "software_recommendation": "Pro Tools or Adobe Audition",
+    "sound_workflow": [
+      "1. Dialogue edit and cleanup",
+      "2. Sound design and foley",
+      "3. Music composition/selection and editing",
+      "4. Ambient/room tone",
+      "5. Mix (balancing all elements)",
+      "6. Master (final loudness and delivery prep)"
+    ],
+    "dialogue_priorities": "Crystal clear Tamil dialogue - consider subtitles for non-Tamil speakers. Every word must be understood.",
+    "sound_design_priorities": "Build the anxiety through sound. The door burst, the breathing, the heartbeat pulse - these are as important as the music.",
+    "music_integration": "Music should support, not overpower. Duck for dialogue clarity but maintain tension throughout.",
+    "delivery_specs": "Stereo mix at -16 LUFS, -1dBTP ceiling, WAV and MP3 deliverables"
+  }
+},
+
+"budget_considerations": {
+  "micro_budget_approach": "This can be shot with minimal crew and prosumer equipment. The script doesn't require VFX or complex setups. Focus budget on good audio (critical for dialogue) and adequate lighting.",
+  
+  "cost_priorities": [
+    "1. Audio equipment rental/hire (if not owned)",
+    "2. Location (office space for half-day)",
+    "3. Actor fees (if paying)",
+    "4. Lighting rental",
+    "5. Post-production (editing, color, sound)",
+    "6. Music (composer or licensing)"
+  ],
+  
+  "cost_saving_options": [
+    "Use available office space (weekend access)",
+    "Minimal crew - director/DP combo",
+    "Own equipment where possible",
+    "Stock music instead of custom composition",
+    "DIY color and sound if skilled"
+  ]
+},
+
+"distribution_notes": {
+  "target_platforms": [
+    "YouTube (primary - tech audience)",
+    "Instagram Reels (short-form native)",
+    "TikTok (if appropriate for audience)",
+    "LinkedIn (professional/tech audience)",
+    "Twitter/X (tech community)"
+  ],
+  
+  "formatting_per_platform": {
+    "youtube": "16:9, 1080p minimum, with subtitles",
+    "instagram_reels": "9:16 vertical crop or 16:9 with safe zones",
+    "tiktok": "9:16 vertical, with captions burned in",
+    "linkedin": "16:9, professional context"
+  },
+  
+  "subtitle_requirements": "English subtitles for Tamil dialogue essential. Consider dual Tamil/English for accessibility.",
+  
+  "thumbnail_strategy": "Hulk's panicked face (extreme close-up from shot 003) with text: '20 YEARS IN IT... NOW WHAT?!' or similar",
+  
+  "title_suggestions": [
+    "20 Years in IT vs. AI Panic 😱",
+    "IT Veteran's Crisis: When AI Takes Over",
+    "Macha... What Do We Do Now? | Tech Panic",
+    "The Panic: Every IT Professional Right Now"
+  ],
+  
+  "hashtag_strategy": "#TechHumor #AICrisis #ITLife #TechComedy #CareerAnxiety #TamilTech #AIRevolution"
+}
+},
+"contingency_planning": {
+"common_issues_and_solutions": {
+"issue_1": {
+"problem": "Door slam too loud or damages door",
+"solution": "Rehearse force level, add soft stops, use sound design to enhance later"
+},
+"issue_2": {
+"problem": "Tamil dialogue pronunciation/authenticity concerns",
+"solution": "Have Tamil-speaking consultant on set, multiple takes with variations, consider improv within script parameters"
+},
+"issue_3": {
+"problem": "8-second timing feels too rushed",
+"solution": "Shoot coverage at natural pace, adjust in edit. Better to have material than to rush performance artificially."
+},
+"issue_4": {
+"problem": "Shaky cam causing motion sickness in test screenings",
+"solution": "Add stabilization in post (warp stabilizer at low strength), or reduce shake intensity in master"
+},
+"issue_5": {
+"problem": "Audio issues (room reverb, noise)",
+"solution": "Heavy blankets for sound dampening, multiple mic sources, ADR if necessary (though less ideal for this intensity)"
+}
+}
+},
+"accessibility_considerations": {
+"subtitles": {
+"required": true,
+"languages": ["English (translation)", "Tamil (for clarity)"],
+"style": "Clear, high contrast, readable font (Arial or similar sans-serif)",
+"timing": "Frame-accurate, respect delivery rhythm",
+"positioning": "Bottom center, avoid covering key visual information"
+},
+Copy"visual_accessibility": {
+  "contrast": "High contrast maintained for visibility",
+  "motion": "While panic-driven, avoid extreme strobing or flashy effects that could trigger photosensitive viewers"
+},
+
+"content_warnings": "Consider: Anxiety themes, rapid movement, intense emotional content (though not graphic)"
+},
+"legal_and_clearance": {
+"music_rights": "Ensure music is either original composition (work-for-hire) or properly licensed from stock library",
+"location_release": "Obtain signed location release for office space",
+"actor_releases": "Talent release forms for both actors, specifying usage rights (online distribution, promotional use, etc.)",
+"character_names": "Hulk/Superman used as nicknames/metaphors - not claiming Marvel/DC IP rights, clearly parody/commentary use"
+}
+}
+</json>
