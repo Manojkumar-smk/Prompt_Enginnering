@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "project_title": "AI Heroes - The Final Punch Setup",
+    "scene_id": "6_The_Final_Punch_Setup",
+    "version": "1.2",
+    "total_duration_sec": 8,
+    "aspect_ratio": "16:9",
+    "frame_rate": 24,
+    "resolution": "4K_UHD",
+    "language": "Tamil",
+    "subtitle_language": ["English", "Tamil"],
+    "production_type": "Cinematic_Superhero_Corporate",
+    "target_audience": "Tech professionals, superhero fans, general audience",
+    "visual_style": "Modern cinematic with comic book elements",
+    "color_grading": "Vibrant heroic with professional corporate undertones"
+  },
+  "screenplay": {
+    "scenes": [
+      {
+        "scene_number": "6A",
+        "scene_title": "The Gathering - Heroes Unite (Standard Entry)",
+        "timecode_start": "00:00:00",
+        "timecode_end": "00:00:02",
+        "duration_sec": 2,
+        "location": {
+          "setting": "Exterior - IT Company Building Plaza",
+          "specific_location": "Modern glass building entrance, open plaza area",
+          "time_of_day": "Golden Hour (Late afternoon)",
+          "weather": "Clear, slight breeze",
+          "atmosphere": "Epic, anticipatory, powerful"
+        },
+        "action_description": "The four superheroes stride purposefully toward the center of the plaza from different directions. **They are all moving at a standard walking pace.** Superman approaches from the left, cape flowing. Hulk walks normally from the right. Spiderman walks briskly from the foreground right. Batman walks methodically from the background left. They converge at the center of the plaza.",
+        "blocking": {
+          "Superman": "Enters frame left, walking with determination, chest forward, cape billowing behind. Standard standing and walking posture.",
+          "Hulk": "Enters frame right, walking with a heavy but standard step. Standard standing and walking posture. Arms relaxed at sides.",
+          "Spiderman": "Enters frame foreground right, walking with youthful, energetic steps. Standard standing and walking posture.",
+          "Batman": "Enters frame background left, walking with a measured, tactical pace. Standard standing and walking posture."
+        },
+        "camera_direction": {
+          "shot_type": "Wide establishing shot transitioning to medium group shot",
+          "camera_movement": "Slow circular dolly movement clockwise around the converging heroes",
+          "angle": "Eye level, gradually lowering to slightly low angle",
+          "focal_length": "35mm transitioning to 50mm",
+          "camera_speed": "Normal speed (100%)"
+        },
+        "lighting": {
+          "key_light": "Natural golden hour sunlight from 45-degree angle",
+          "back_light": "Strong rim lighting from setting sun creating silhouette edges"
+        },
+        "dialogue": {
+          "lines": [],
+          "audio_cues": "Footsteps, cape swoosh, orchestral build"
+        },
+        "visual_effects": [
+          "Cape physics simulation for Superman",
+          "Subtle light lens flares from sun"
+        ],
+        "transition_out": "Smooth speed ramp to slow motion"
+      },
+      {
+        "scene_number": "6B",
+        "scene_title": "The Unity - Hands Join",
+        "timecode_start": "00:00:02",
+        "timecode_end": "00:00:05",
+        "duration_sec": 3,
+        "location": {
+          "setting": "Exterior - IT Company Building Plaza (Continued)",
+          "specific_location": "Center of plaza, heroes in tight formation",
+          "time_of_day": "Golden Hour"
+        },
+        "action_description": "**SLOW MOTION BEGINS (40% speed).** The four heroes reach toward the center simultaneously. Superman, Hulk, Spiderman, and Batman's hands meet and stack one upon another in a powerful gesture of unity.",
+        "blocking": {
+          "Superman": "Right hand extended palm down, steady and confident",
+          "Hulk": "Large green hand placed over Superman's, controlled strength",
+          "Spiderman": "Left hand placed energetically on top",
+          "Batman": "Right hand tops the stack, authoritative placement"
+        },
+        "camera_direction": {
+          "shot_type": "Close-up on hands transitioning to medium close-up of faces",
+          "camera_movement": "Slow push-in dolly toward stacked hands, then tilt up to faces",
+          "angle": "Low angle emphasizing power and heroism",
+          "focal_length": "85mm for compression and dramatic effect",
+          "camera_speed": "Slow motion (40% speed)",
+          "focus_technique": "Rack focus from hands to faces"
+        },
+        "lighting": {
+          "key_light": "Golden hour sunlight creating warm glow on hands and faces",
+          "back_light": "Strong rim light creating hero glow around heads"
+        },
+        "dialogue": {
+          "lines": [],
+          "audio_cues": "Slow motion whoosh effects, dramatic musical build, fabric and leather sounds"
+        },
+        "visual_effects": [
+          "Slow motion particle effects around hands",
+          "Subtle energy glow where hands meet",
+          "Depth of field enhancement"
+        ],
+        "transition_out": "Slow motion continues"
+      },
+      {
+        "scene_number": "6C",
+        "scene_title": "The Declaration - Hero Pose Formation",
+        "timecode_start": "00:00:05",
+        "timecode_end": "00:00:07",
+        "duration_sec": 2,
+        "location": {
+          "setting": "Exterior - IT Company Building Plaza (Continued)",
+          "specific_location": "Center of plaza, heroes breaking into pose",
+          "time_of_day": "Golden Hour transitioning to dusk"
+        },
+        "action_description": "**SLOW MOTION CONTINUES (40% speed).** The heroes break their hand stack and simultaneously move into their signature, powerful hero poses, forming a dynamic tableau against the building. All faces show determination and confidence.",
+        "blocking": {
+          "Superman": "Center-left, classic superhero stance, fists on hips, cape flowing",
+          "Hulk": "Right, arms raised in flex, showing power",
+          "Spiderman": "Front-center low, dynamic crouch, web-shoot gesture",
+          "Batman": "Left, cape spread wide, commanding stance"
+        },
+        "camera_direction": {
+          "shot_type": "Wide hero shot capturing all four characters",
+          "camera_movement": "Slow continuing push-in, then slight crane up for elevated perspective",
+          "angle": "Low angle (camera looking up at heroes) emphasizing power",
+          "focal_length": "35mm for dramatic wide perspective",
+          "camera_speed": "Slow motion (40% speed) with slight speed ramp"
+        },
+        "lighting": {
+          "key_light": "Dramatic golden hour backlight creating silhouettes with edge lighting",
+          "back_light": "Strong rim lighting on all heroes creating separation from background"
+        },
+        "dialogue": {
+          "lines": [
+            {
+              "characters": ["Superman", "Hulk", "Spiderman", "Batman"],
+              "delivery": "Unison, powerful, confident",
+              "text_tamil": "",
+              "text_phonetic": "",
+              "text_english": "",
+              "timing": "Beginning at 00:00:05",
+              "audio_processing": "Slight reverb for epic quality, chorus effect for unison"
+            }
+          ],
+          "audio_cues": "Cape swooshes, Hulk's roar undertone, musical crescendo"
+        },
+        "visual_effects": [
+          "Enhanced slow motion with speed ramping",
+          "Dramatic cape physics for Superman and Batman",
+          "Color enhancement for each hero's signature color"
+        ],
+        "transition_out": "Speed begins to ramp for freeze frame preparation"
+      },
+      {
+        "scene_number": "6D",
+        "scene_title": "The Freeze - AI Heroes Proclaimed",
+        "timecode_start": "00:00:07",
+        "timecode_end": "00:00:08",
+        "duration_sec": 1,
+        "location": {
+          "setting": "Exterior - IT Company Building Plaza (Continued)",
+          "specific_location": "Center of plaza, heroes in final pose",
+          "time_of_day": "Dusk"
+        },
+        "action_description": "**FREEZE FRAME ACTIVATED.** The heroes lock into their final hero pose at the peak of their power stance. The image freezes in a comic book style panel effect. The final dialogue is completed during this frozen moment.",
+        "blocking": {
+          "Superman": "Frozen in classic pose, confident. **Final position: Standing tall in the center-left of the frame, fists on hips.**",
+          "Hulk": "Frozen mid-roar, arms flexed. **Final position: Standing powerfully on the right side of the frame, arms raised, slightly forward of Superman.**",
+          "Spiderman": "Frozen in dynamic crouch, web-shooting gesture held. **Final position: Low to the ground, center-front, in an athletic crouch, one hand extended towards the camera.**",
+          "Batman": "Frozen in commanding stance, cape at full spread. **Final position: Standing on the left side of the frame, slightly behind Superman, cape dramatically spread wide.**"
+        },
+        "camera_direction": {
+          "shot_type": "Wide locked hero shot",
+          "camera_movement": "Complete freeze, static frame",
+          "angle": "Low angle locked position",
+          "focal_length": "35mm locked",
+          "camera_speed": "0% - Complete freeze frame"
+        },
+        "lighting": {
+          "key_light": "Locked golden hour lighting with enhanced contrast",
+          "special_effects": "Comic book style lighting enhancement"
+        },
+        "dialogue": {
+          "lines": [
+            {
+              "characters": ["Superman", "Hulk", "Spiderman", "Batman"],
+              "delivery": "Unison, triumphant conclusion",
+              "text_tamil": "",
+              "text_phonetic": "",
+              "text_english": "",
+              "timing": "Completes during freeze frame",
+              "emotion": "Triumphant, confident, powerful declaration",
+              "audio_processing": "Full reverb, epic echo, chorus effect, slight distortion for power on 'AI'"
+            }
+          ],
+          "audio_cues": "Freeze frame sound effect, dramatic hit, reverb tail, sustained music chord"
+        },
+        "visual_effects": [
+          "Comic book freeze frame effect",
+          "Motion blur trails frozen in place",
+          "Enhanced color saturation and vignetting",
+          "Signature color glows for each hero"
+        ],
+        "transition_out": "Fade to black or cut to next scene"
+      }
+    ],
+    "scene_transitions": [
+      {
+        "from_scene": "6A",
+        "to_scene": "6B",
+        "type": "Smooth speed ramp to slow motion",
+        "duration_frames": 6
+      },
+      {
+        "from_scene": "6B",
+        "to_scene": "6C",
+        "type": "Continue slow motion",
+        "duration_frames": 3
+      },
+      {
+        "from_scene": "6C",
+        "to_scene": "6D",
+        "type": "Speed ramp to complete freeze",
+        "duration_frames": 12
+      }
+    ]
+  },
+  "visual_elements": {
+    "overall_style": {
+      "genre": "Cinematic superhero with corporate tech backdrop",
+      "visual_references": ["Marvel Avengers team shots", "Justice League heroic moments"],
+      "color_palette": {
+        "primary_colors": ["Heroic blue (Superman)", "Gamma green (Hulk)", "Web red (Spiderman)", "Dark knight black (Batman)"],
+        "secondary_colors": ["Corporate steel gray", "Modern glass blue", "Golden hour amber"]
+      },
+      "mood_board_keywords": ["Epic", "Heroic", "Modern", "Corporate", "Powerful", "Unified", "Tech-forward", "Cinematic"]
+    },
+    "camera_specifications": {
+      "camera_body": "Cinema camera (ARRI Alexa Mini or RED Komodo equivalent)",
+      "lenses": ["35mm prime for wide shots", "50mm prime for medium", "85mm prime for close-ups"],
+      "special_equipment": ["Dolly track for smooth movement", "Crane for elevated shots", "Gimbal for dynamic movement", "High-speed camera for slow motion (96-120fps)"],
+      "filters": ["ND filters for golden hour exposure"]
+    },
+    "shot_list": [
+      {
+        "shot_number": 1,
+        "description": "Wide establishing - All heroes converging (standard walk)",
+        "shot_type": "Wide shot (WS)",
+        "movement": "Circular dolly",
+        "duration_sec": 2,
+        "frame_rate": 24
+      },
+      {
+        "shot_number": 2,
+        "description": "Close-up hands joining in slow motion",
+        "shot_type": "Close-up (CU)",
+        "movement": "Slow push-in",
+        "duration_sec": 1.5,
+        "frame_rate": 96
+      },
+      {
+        "shot_number": 3,
+        "description": "Medium close-up faces showing unity",
+        "shot_type": "Medium close-up (MCU)",
+        "movement": "Tilt up from hands",
+        "duration_sec": 1.5,
+        "frame_rate": 96
+      },
+      {
+        "shot_number": 4,
+        "description": "Wide low angle hero pose formation",
+        "shot_type": "Wide shot (WS) low angle",
+        "movement": "Push-in with slight crane up",
+        "duration_sec": 2,
+        "frame_rate": 96
+      },
+      {
+        "shot_number": 5,
+        "description": "Freeze frame final hero pose",
+        "shot_type": "Wide shot (WS) locked",
+        "movement": "Static freeze",
+        "duration_sec": 1,
+        "frame_rate": 24
+      }
+    ],
+    "visual_effects_breakdown": {
+      "practical_effects": ["Wind machines for capes", "Dust/atmosphere for depth"],
+      "vfx_requirements": [
+        "Cape cloth simulation enhancement",
+        "Slow motion particle effects (dust, light)",
+        "Energy glow effects at hand junction",
+        "Comic book freeze frame styling",
+        "Color isolation and enhancement"
+      ],
+      "post_production": [
+        "Speed ramping from normal to slow motion",
+        "Freeze frame processing with comic effect",
+        "Color grading per character",
+        "Vignetting and lens effects"
+      ]
+    }
+  },
+  "audio_elements": {
+    "music": {
+      "main_theme": {
+        "genre": "Epic orchestral with modern electronic elements",
+        "structure": [
+          {"section": "Intro", "timing": "00:00:00-00:00:02", "description": "Building orchestral swell"},
+          {"section": "Slow Motion Theme", "timing": "00:00:02-00:00:05", "description": "Slowed orchestral with ethereal synths"},
+          {"section": "Hero Climax", "timing": "00:00:05-00:00:07", "description": "Full orchestral power, driving drums"},
+          {"section": "Freeze Finale", "timing": "00:00:07-00:00:08", "description": "Massive hit with reverb tail"}
+        ]
+      }
+    },
+    "dialogue": {
+      "recording_specifications": {
+        "format": "48kHz, 24-bit",
+        "microphone": "Lavalier mics on actors with boom overhead"
+      },
+      "all_characters_unison_line_1": {
+        "text_tamil": "",
+        "text_english": "",
+        "timing": "00:00:05-00:00:07",
+        "delivery_notes": "Strong, confident, unison delivery. Each actor records separately then layered for perfect sync."
+      },
+      "all_characters_unison_line_2": {
+        "text_tamil": "",
+        "text_english": "",
+        "timing": "00:00:07-00:00:08",
+        "delivery_notes": "Triumphant climax, maximum power, perfect unison. Emphasis on 'AI'."
+      },
+      "subtitle_specifications": {
+        "tamil_subtitles": {"font": "Noto Sans Tamil Bold", "size": "Large, readable", "color": "White with black outline"},
+        "english_subtitles": {"font": "Arial Bold or similar sans-serif", "size": "Large, readable", "color": "Yellow with black outline"}
+      }
+    },
+    "sound_effects": {
+      "action_sounds": [
+        {"effect": "Hands joining", "timing": "00:00:02-00:00:03"},
+        {"effect": "Slow motion whoosh", "timing": "00:00:02-00:00:07"},
+        {"effect": "Pose strike impact", "timing": "00:00:06"},
+        {"effect": "Freeze frame hit", "timing": "00:00:07"}
+      ]
+    }
+  },
+  "character_details": {
+    "characters": [
+      {
+        "character_name": "Superman",
+        "actor_direction": "Confident, heroic leader. Standard walking posture in Scene 6A.",
+        "costume": {"description": "Classic Superman costume - blue suit with red cape and 'S' emblem"}
+      },
+      {
+        "character_name": "Hulk",
+        "actor_direction": "Controlled power with standard walking posture in Scene 6A.",
+        "costume": {"description": "Hulk appearance - torn purple pants, green skin/makeup"}
+      },
+      {
+        "character_name": "Spiderman",
+        "actor_direction": "Youthful energy with standard walking posture in Scene 6A.",
+        "costume": {"description": "Classic Spiderman suit - red and blue with web pattern"}
+      },
+      {
+        "character_name": "Batman",
+        "actor_direction": "Tactical, strategic presence with standard walking posture in Scene 6A.",
+        "costume": {"description": "Batman tactical suit - dark gray/black with cape and cowl"}
+      }
+    ]
+  },
+  "production_notes": {
+    "location_requirements": {
+      "primary_location": "Modern IT company building exterior",
+      "time_of_day": "Golden hour shoot (late afternoon)"
+    },
+    "technical_specifications": {
+      "recording_format": "RAW or ProRes 4444",
+      "resolution": "4K minimum",
+      "frame_rates": ["24fps for normal speed", "96-120fps for slow motion sequences"]
+    },
+    "creative_notes": {
+      "director_vision": "This scene is the culmination of the heroes' unity, set against a modern corporate backdrop to emphasize the AI/technology theme. The walk-in must be standard and purposeful, allowing the drama to build during the slow-motion unity moment and climactic freeze frame."
+    }
+  }
+}
